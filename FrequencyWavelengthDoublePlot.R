@@ -1,5 +1,5 @@
 #Attribution and Purpose of Code====
-# Code by Keelin Haynes (hayneskd@miamioh.edu, Political Science Major, Miami University, Oxford, OH USA
+
 # 
 #This code is a very simple plot designed to visualize the relationship between frequency and wavelength of EM radiation
 
